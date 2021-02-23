@@ -65,3 +65,7 @@ body{
     list-style: none;
     padding-left: 0px;
 }
+
+figure h2{
+    background-color: #F8FA7E;
+}
